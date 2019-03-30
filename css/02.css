@@ -1,0 +1,37 @@
+.bodys{
+    width:100%;
+    height:622px;
+    background: url("../img/bg_profile_unlogin.jpg");
+    background-size: 100% 622px;
+    overflow: hidden;
+}
+.tit-1{
+    width: 735px;
+    height: 64px;
+    background-image:url(../img/profile_tit@2x.png);
+    background-size: 735px 100px;
+    margin-top: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.desc{
+    width: 345px;
+    height: 30px;
+    background: url(../img/profile_tit@2x.png) no-repeat 0 0;
+    background-size:345px 45px;
+    margin: 30px auto 36px;
+}
+.btn{
+    font-size: 20px;
+    height: 48px;
+    line-height: 48px;
+    width: 128px;
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid #31c27c;
+    background-color: #31c27c;
+    border-radius: 5px;
+}
+.btn a{
+    color: #fff;
+}

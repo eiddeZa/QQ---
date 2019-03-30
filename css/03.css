@@ -1,0 +1,29 @@
+.mac{
+    width:1200px;
+    height:674px;
+    margin: auto;
+}
+.bei{
+    background: #333;
+    overflow: hidden;
+}
+.biao{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 400;
+    float: left;
+    line-height: 90px;
+}
+.pa{
+    font-size: 14px;
+    color: #999;
+    float: left;
+    line-height: 90px;
+    text-indent: 30px;
+}
+.dabufen{
+    margin-top: 40px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 60px;
+}
